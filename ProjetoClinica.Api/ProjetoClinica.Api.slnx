@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProjetoClinica.Api/ProjetoClinica.Api.csproj" />
+  <Project Path="ProjetoClinica.Application.Abstractions/ProjetoClinica.Application.Abstractions.csproj" />
+  <Project Path="ProjetoClinica.Application/ProjetoClinica.Application.csproj" />
+  <Project Path="ProjetoClinica.Domain/ProjetoClinica.Domain.csproj" />
+  <Project Path="ProjetoClinica.Infra/ProjetoClinica.Infra.csproj" />
+</Solution>
