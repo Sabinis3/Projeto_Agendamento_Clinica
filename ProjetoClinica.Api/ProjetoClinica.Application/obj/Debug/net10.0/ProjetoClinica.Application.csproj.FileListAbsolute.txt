@@ -1,0 +1,13 @@
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\bin\Debug\net10.0\ProjetoClinica.Application.deps.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\bin\Debug\net10.0\ProjetoClinica.Application.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\bin\Debug\net10.0\ProjetoClinica.Application.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.csproj.AssemblyReference.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.AssemblyInfoInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.AssemblyInfo.cs
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.csproj.CoreCompileInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.sourcelink.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\refint\ProjetoClinica.Application.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ProjetoClinica.Application.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Application\obj\Debug\net10.0\ref\ProjetoClinica.Application.dll

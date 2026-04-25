@@ -1,0 +1,13 @@
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\bin\Debug\net10.0\ProjetoClinica.Domain.deps.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\bin\Debug\net10.0\ProjetoClinica.Domain.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\bin\Debug\net10.0\ProjetoClinica.Domain.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.AssemblyInfoInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.AssemblyInfo.cs
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.sourcelink.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\refint\ProjetoClinica.Domain.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ref\ProjetoClinica.Domain.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Domain\obj\Debug\net10.0\ProjetoClinica.Domain.csproj.AssemblyReference.cache

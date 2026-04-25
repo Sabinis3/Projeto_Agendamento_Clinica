@@ -3,5 +3,6 @@
   <Project Path="ProjetoClinica.Application.Abstractions/ProjetoClinica.Application.Abstractions.csproj" />
   <Project Path="ProjetoClinica.Application/ProjetoClinica.Application.csproj" />
   <Project Path="ProjetoClinica.Domain/ProjetoClinica.Domain.csproj" />
+  <Project Path="ProjetoClinica.Extensions/ProjetoClinica.Extensions.csproj" Id="67b2db8f-d4a5-4191-b43d-90db94f05645" />
   <Project Path="ProjetoClinica.Infra/ProjetoClinica.Infra.csproj" />
 </Solution>

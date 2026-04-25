@@ -1,0 +1,13 @@
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\bin\Debug\net10.0\ProjetoClinica.Extensions.deps.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\bin\Debug\net10.0\ProjetoClinica.Extensions.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\bin\Debug\net10.0\ProjetoClinica.Extensions.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.csproj.AssemblyReference.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.AssemblyInfoInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.AssemblyInfo.cs
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.csproj.CoreCompileInputs.cache
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.sourcelink.json
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\refint\ProjetoClinica.Extensions.dll
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ProjetoClinica.Extensions.pdb
+D:\Documentos_HD\Documentos\Projetos\Projeto_Agendamento_Clinica\ProjetoClinica.Api\ProjetoClinica.Extensions\obj\Debug\net10.0\ref\ProjetoClinica.Extensions.dll

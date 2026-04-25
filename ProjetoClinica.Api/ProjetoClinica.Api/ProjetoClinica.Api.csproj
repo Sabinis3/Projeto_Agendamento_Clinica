@@ -10,4 +10,12 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoClinica.Extensions\ProjetoClinica.Extensions.csproj" />
+    <ProjectReference Include="..\ProjetoClinica.Application\ProjetoClinica.Application.csproj" />
+	<ProjectReference Include="..\ProjetoClinica.Application.Abstractions\ProjetoClinica.Application.Abstractions.csproj" />
+	<ProjectReference Include="..\ProjetoClinica.Domain\ProjetoClinica.Domain.csproj" />
+	  <ProjectReference Include="..\ProjetoClinica.Infra\ProjetoClinica.Infra.csproj" />
+  </ItemGroup>
+
 </Project>
